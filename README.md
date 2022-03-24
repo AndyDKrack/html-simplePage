@@ -9,6 +9,8 @@ I  will be creating a simple web page that will contain the following;
 
 ACKNOWLEDGMENTS
 
+mainheadpic - Photo by <a href="https://unsplash.com/@zekedrone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Martin Sanchez</a> on <a href="https://unsplash.com/s/photos/meta?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 topstorypic - Photo by Kindel Media from Pexels (https://www.pexels.com/photo/close-up-photo-of-toy-bot-8566472/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
 headerpic - Photo by Andrea Piacquadio from Pexels (https://www.pexels.com/photo/woman-raising-her-hands-up-while-sitting-on-floor-with-macbook-pro-on-lap-3813341/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
