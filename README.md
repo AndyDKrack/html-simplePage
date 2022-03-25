@@ -30,6 +30,9 @@ pic5 - Photo by <a href="https://unsplash.com/@itskabita?utm_source=unsplash&utm
   instaicon - <a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Freepik - Flaticon</a>
   
   facebookicon - <a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by riajulislam - Flaticon</a>
-   
-
+  
+  background image - Photo by <a href="https://unsplash.com/@jazminantoinette?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jazmin Quaynor</a> on <a href="https://unsplash.com/backgrounds/art/paper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+  
+favicon - favicon generator {John Sorrentino} https://twitter.com/johnsorrentino
 
