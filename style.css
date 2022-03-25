@@ -1,16 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Slabo+27px&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Hurricane&display=swap');
+/* Font license  https://scripts.sil.org/TypeDesign */
 
 body {
     margin: 0;
     padding: 0;
-    background-color: rgb(172, 172, 172);
+    background-color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
-    background-image: url('images/bkgrndpic.jpg');
+    background-image: url('images/bkgrndpic4.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
 }
 
 .main-container {
-    background-color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.589);
     width: 1000px;
     box-shadow: 100px black;
 }
@@ -62,29 +67,89 @@ body {
     background-color: #04aa6d;
     color: rgb(8, 8, 8);
 }
+
+img:hover {
+    color: aquamarine;
+}
 /*----------------------------------------------------------------------------------*/
     .container1 {
         display: flex;
         flex-direction: row;
+        flex-wrap: nowrap;
         border: soli;
-        gap: 2px;
+        gap: 3px;
+        padding: 5px;
     }
 
             .side-bar,
             .main-bar {
-                background-color: aquamarine;
-                border: soli;
+                background-color: rgb(251, 255, 254);
             }
 
             .side-bar {
                 width: 30%;
                 padding: 8px 2px 2px 4px;
+                border-radius: 2px 5px 5px 2px;
             }
 
             .main-bar {
                 width: 70%;
                 padding: 8px 2px 2px 8px;
+                border-radius: 5px 2px 2px 5px;
+                display: flex;
+                flex-direction: column;
+                flex-wrap: wrap;
+                gap: 5px;
+                font-family: 'Slabo 27px', serif;
             }
+
+                    .crate {
+                        /*border: solid;*/ 
+                    }
+                            #crates-heading {
+                                font-size: 40px;
+                                font-weight: bolder;
+                                color: royalblue;
+                            }
+
+                            .crate-large-pic {
+                                width: 300px;
+                                border-radius: 8px;
+                                border-style: hidden;
+                                box-shadow: 10px 10px 5px 0px rgb(95, 95, 95);
+                            }
+                    
+                    .box1,
+                    .box2 {
+                        border: solid;
+                        width: 25%;
+                        display: flex;
+                        justify-content: center;
+                        overflow: wrap;
+                    }
+
+                    .file1,
+                    .file2 {
+                        /*border: solid;*/
+                    }
+
+                    .file1 {
+                        width: auto;
+                        padding: 14px;
+                    }
+
+                    .file2 {
+                        padding: 14px 14px;
+                    }
+
+                    #crate2,
+                    #crate3,
+                    #crate4,
+                    #crate5 {
+                        display: flex;
+                        flex-direction: row;
+                    }
+             
 /*-----------------------------------------------------------------------------------*/
 .footer {
     background-color: #333;
