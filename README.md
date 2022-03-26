@@ -37,9 +37,18 @@ pic5 - Photo by <a href="https://unsplash.com/@itskabita?utm_source=unsplash&utm
   
   background image3 - Photo by <a href="https://unsplash.com/@brandi1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brandi Redd</a> on <a href="https://unsplash.com/s/photos/website-background?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-  background image4 - Photo by <a href="https://unsplash.com/@danny_lincoln?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniel Lincoln</a> on <a href="https://unsplash.com/s/photos/fun-background?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  background image4 - Photo by <a href="https://unsplash.com/@thexclu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clu Soh</a> on <a href="https://unsplash.com/s/photos/black-background?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
   
-  
+ 
 favicon - favicon generator {John Sorrentino} https://twitter.com/johnsorrentino
 
+boxpic4 - Photo by Solen Feyissa: https://www.pexels.com/photo/internet-connection-technology-travel-5744251/
+
+boxpic1 - Photo by <a href="https://unsplash.com/@mehrshadr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mehrshad Rajabi</a> on <a href="https://unsplash.com/s/photos/smartphone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+boxpic2 - Photo by <a href="https://unsplash.com/@obergeron?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Olivier Bergeron</a> on <a href="https://unsplash.com/s/photos/tiktok?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+boxpic3 - Photo by <a href="https://unsplash.com/@pakata?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pakata Goh</a> on <a href="https://unsplash.com/s/photos/coding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+  
