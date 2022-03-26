@@ -79,19 +79,18 @@ img:hover {
         padding: 5px;
     }
 
-            .bottom-bar,
             .main-bar {
                 background-color: rgb(251, 255, 254);
             }
 
             .bottom-bar {
                 padding: 8px 2px 2px 4px;
-                border-radius: 2px 5px 5px 2px;
+                border-radius: 5px 5px 5px 5px;
             }
 
             .main-bar {
                 padding: 8px 2px 2px 8px;
-                border-radius: 5px 2px 2px 5px;
+                border-radius: 5px 5px 5px 5px;
                 display: flex;
                 flex-direction: column;
                 flex-wrap: wrap;
@@ -201,3 +200,22 @@ img:hover {
 }
 
 /*-----------------------------------------------------------------------------------*/
+
+.bottom-bar {
+    background-color: #333;
+    color: beige;
+}
+
+    .bcon1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+   
+        .bottom-con {
+            border: solid;
+            padding: 8px;
+            width: auto;
+            text-align: center;
+        }
+
