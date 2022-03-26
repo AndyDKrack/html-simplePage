@@ -254,3 +254,10 @@ img:hover {
     color: beige;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.sub-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
