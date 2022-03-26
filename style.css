@@ -224,7 +224,7 @@ img:hover {
                 }
 
         .bcon2 {
-            border: solid;
+            /*border: solid;*/
             padding: 0px;
             display: flex;
             flex-direction: row;
