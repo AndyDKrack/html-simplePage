@@ -72,7 +72,7 @@ img:hover {
 /*----------------------------------------------------------------------------------*/
     .container1 {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         flex-wrap: nowrap;
         border: soli;
         gap: 3px;
@@ -85,13 +85,11 @@ img:hover {
             }
 
             .side-bar {
-                width: 30%;
                 padding: 8px 2px 2px 4px;
                 border-radius: 2px 5px 5px 2px;
             }
 
             .main-bar {
-                width: 70%;
                 padding: 8px 2px 2px 8px;
                 border-radius: 5px 2px 2px 5px;
                 display: flex;
@@ -108,48 +106,61 @@ img:hover {
                                 font-size: 40px;
                                 font-weight: bolder;
                                 color: royalblue;
+                                text-align: center;
                             }
 
                             .crate-large-pic {
-                                width: 300px;
+                                min-width: auto;
+                                max-width: 300px;
                                 border-radius: 8px;
                                 border-style: hidden;
-                                box-shadow: 10px 10px 5px 0px rgb(95, 95, 95);
+                                box-shadow: 5px 5px 5px 0px rgb(95, 95, 95);
+
                             }
                     
                     .box1,
                     .box2 {
-                        border: solid;
+                        border: soli;
+                        border-color: rgba(255, 255, 255, 0);
                         width: 150px;
                         display: flex;
                         flex-direction: column;
                         text-align: center;
-                        padding: 4px;
+                        padding: 8px;
+                        font-size: 14px;
                     }
 
                             .boxpic {
                                 width: 150px;
+                                box-shadow: 5px 5px 5px 0px rgb(95, 95, 95);
+                                border-radius: 4px;
                             }
 
                     .file1,
                     .file2 {
                         /*border: solid;*/
+                        flex-shrink: inherit;
                     }
 
                     .file1 {
-                        width: auto;
+                        width: aut;
                         padding: 14px;
                     }
 
                     .file2 {
                         padding: 14px 14px;
-                        width: 300px;
+                        min-width: auto;
+                        max-width: 500px;
                     }
 
                             .text-link {
                                 text-decoration: none; 
                                 font-weight: bold; 
                                 color: royalblue;  
+                            }
+
+                            .file2-text {
+                                font-size: 20px;
                             }
 
                     #crate2,
@@ -162,12 +173,18 @@ img:hover {
                         justify-content: center;
                     }
 
-                    #crate3,
-                    #crate5 {
-                        gap: 4px;
-                    }
-             
-/*-----------------------------------------------------------------------------------*/
+                        #crate3,
+                        #crate5, 
+                        a {
+                            gap: 4px;
+                            text-decoration: none;
+                            color: rgb(42, 91, 165);
+                            font-weight: bold;
+                            
+                        }
+
+
+    /*-----------------------------------------------------------------------------------*/
 .footer {
     background-color: #333;
     position: relative;
